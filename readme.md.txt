@@ -1,0 +1,1 @@
+A responsive, interactive R Shiny app built for academic analysis. Provides real-time data visualization and filtering with optimized performance using reactive programming. Designed and deployed collaboratively, showcasing custom UI, efficient server logic, and live insights.

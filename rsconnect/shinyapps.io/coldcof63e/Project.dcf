@@ -1,0 +1,12 @@
+name: Project
+title: Project
+username: coldcof63e
+account: coldcof63e
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15730268
+bundleId: 11023418
+url: https://coldcof63e.shinyapps.io/Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
